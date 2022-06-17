@@ -90,7 +90,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com",
+  external_url: "https://bullrun5k.com/",
   creators: [
     {
       address: "0x9174533Be5c50b88cca8F25a386DcfCa6f45983C",
