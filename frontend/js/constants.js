@@ -1,4 +1,4 @@
-const contractAddress = "0xB3aeC56F0428ed90Eb6A66c646d005e5f586892C"; //Replace with your own contract address
+const contractAddress = "0x900d8A592Dc6B5e720C8Eb2F8809fe35DF8d5e4C"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bullrun5k NFT!";
