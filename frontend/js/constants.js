@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bullrun5k NFT!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Bullrun5k is a 5000 handcrafted 3D model collection';
+const welcome_p = "Bullrun5k is a 5000 handcrafted 3D model collection";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
